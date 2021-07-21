@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: white;
+    height: 14px;
+}
+
+#thumbnail {
+    margin-left: 14px; 
+    margin-top: 6px;
+}
+
+#video_title {
+    font-size: 5px; 
+    font-family: Montserrat; 
+    margin-left: 14px;
+}
+
+#search_bar {
+    height: 2px; 
+    width: 150px; 
+    font-size: 5px; 
+    position: absolute; 
+    margin-top: 3px; 
+    margin-left: 14px;
+}
+
+#search_button {
+    height: 8px; 
+    width: 10px; 
+    margin-top: 3px; 
+    margin-right: 30px; 
+    margin-bottom: 3px; 
+    margin-left: 160px; 
+    position: absolute;
+}
+
+#Nav_expand_btn {
+    padding-left: 3px;
+    padding-bottom: 2px;
+    height: 10px; 
+}
+
+#YT_logo {
+    padding-bottom: 4px;
+    height: 7px;
+}
+
+#search_btn {
+    height: 8px;
+    width: 10px;
+    margin-top: 3px; 
+    margin-right: 30px; 
+    margin-bottom: 3px; 
+    margin-left: 160px; 
+    position: absolute;
+}
+
+#YT_apps_btn {
+    padding-bottom: 3.5px; 
+    margin-left: 3px;
+    height: 9px;
+}
+
+#bell_btn {
+    padding-bottom: 2px; 
+    margin-left: 3px;
+    height: 10px;
+}
